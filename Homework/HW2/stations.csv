@@ -1,0 +1,294 @@
+station_id,station_name,latitude,longitude,capacity,status,neighborhood
+bcycle_indego_3005,"Welcome Park, NPS",39.94733,-75.14403,0,unknown,Old City
+bcycle_indego_3006,40th & Spruce,39.9522,-75.20311,0,unknown,University City
+bcycle_indego_3007,"11th & Pine, Kahn Park",39.94517,-75.15993,0,unknown,Washington Square West
+bcycle_indego_3008,Temple University Station,39.98081,-75.15067,0,unknown,Hartranft
+bcycle_indego_3009,33rd & Market,39.95576,-75.18982,0,unknown,University City
+bcycle_indego_3010,15th & Spruce,39.94711,-75.16618,0,unknown,Rittenhouse
+bcycle_indego_3012,21st & Catharine,39.94218,-75.17747,0,unknown,Graduate Hospital
+bcycle_indego_3014,"21st & Winter, Franklin Institute",39.95886,-75.17369,0,unknown,Logan Square
+bcycle_indego_3015,"4th & Walnut, NPS",39.94735,-75.14886,0,unknown,Society Hill
+bcycle_indego_3016,"11th & Poplar, John F. Street Community Center",39.96892,-75.1547,0,unknown,West Poplar
+bcycle_indego_3017,6th & Berks,39.98003,-75.14371,0,unknown,"Kensington, West"
+bcycle_indego_3018,12th & Filbert,39.95273,-75.15979,0,unknown,Center City East
+bcycle_indego_3019,6th & Race,39.95403,-75.14983,0,unknown,Old City
+bcycle_indego_3020,University City Station,39.94855,-75.19007,0,unknown,University City
+bcycle_indego_3021,18th & JFK,39.9539,-75.16902,0,unknown,Logan Square
+bcycle_indego_3022,Amtrak 30th Street Station,39.95472,-75.18323,0,unknown,University City
+bcycle_indego_3024,"43rd & Chester, Clark Park",39.94822,-75.20908,0,unknown,Spruce Hill
+bcycle_indego_3025,11th & Washington,39.93724,-75.1612,0,unknown,Hawthorne
+bcycle_indego_3026,2nd & Lombard,39.94182,-75.1455,0,unknown,Society Hill
+bcycle_indego_3028,4th & Bainbridge,39.94061,-75.14958,0,unknown,Queen Village
+bcycle_indego_3029,36th & Sansom,39.9538,-75.19479,0,unknown,University City
+bcycle_indego_3030,Darien & Catharine,39.93935,-75.15716,0,unknown,Bella Vista
+bcycle_indego_3031,13th & Montgomery,39.98005,-75.15522,0,unknown,Hartranft
+bcycle_indego_3032,23rd & South,39.94527,-75.17971,0,unknown,Graduate Hospital
+bcycle_indego_3033,10th & Chestnut,39.95005,-75.15672,0,unknown,Washington Square West
+bcycle_indego_3034,11th & Reed,39.93315,-75.16248,0,unknown,Passyunk Square
+bcycle_indego_3035,Dornsife Center,39.96271,-75.19419,0,unknown,Mantua
+bcycle_indego_3037,Pennsylvania Convention Center,39.95424,-75.16138,0,unknown,Center City East
+bcycle_indego_3038,The Children's Hospital of Philadelphia (CHOP),39.94781,-75.19409,0,unknown,University City
+bcycle_indego_3039,Broad & Girard,39.97157,-75.15993,0,unknown,North Central
+bcycle_indego_3040,17th & Spring Garden,39.96289,-75.16606,0,unknown,Logan Square
+bcycle_indego_3041,"Girard Station, MFL",39.96849,-75.13546,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3047,"Independence Mall, NPS",39.95073,-75.14947,0,unknown,Old City
+bcycle_indego_3049,Foglietta Plaza,39.94509,-75.1425,0,unknown,Riverfront
+bcycle_indego_3051,23rd & Fairmount,39.96744,-75.17507,0,unknown,Fairmount
+bcycle_indego_3052,9th & Locust,39.94732,-75.15695,0,unknown,Washington Square West
+bcycle_indego_3053,Point Breeze & Tasker,39.93231,-75.18154,0,unknown,Point Breeze
+bcycle_indego_3054,Rodin Museum,39.9625,-75.1742,0,unknown,Logan Square
+bcycle_indego_3055,8th & Market,39.95112,-75.15457,0,unknown,Washington Square West
+bcycle_indego_3056,Broad & Oxford,39.97669,-75.15813,0,unknown,Yorktown
+bcycle_indego_3057,Philadelphia Art Museum,39.96439,-75.17987,0,unknown,East Park
+bcycle_indego_3058,20th & Fairmount,39.96716,-75.17001,0,unknown,Spring Garden
+bcycle_indego_3059,"Spring Garden Station, BSL",39.96244,-75.16121,0,unknown,West Poplar
+bcycle_indego_3060,Free Library of Philadelphia - Central Library,39.95923,-75.17036,0,unknown,Logan Square
+bcycle_indego_3061,23rd & Market,39.95425,-75.17761,0,unknown,Logan Square
+bcycle_indego_3062,24th & Sansom,39.95197,-75.17943,0,unknown,Rittenhouse
+bcycle_indego_3063,17th & Pine,39.94633,-75.1698,0,unknown,Rittenhouse
+bcycle_indego_3064,"18th & Washington, Chew Playground",39.9384,-75.17327,0,unknown,Point Breeze
+bcycle_indego_3065,Girard & Hutchinson,39.9707,-75.15171,0,unknown,Yorktown
+bcycle_indego_3066,19th & Lombard,39.94561,-75.17348,0,unknown,Rittenhouse
+bcycle_indego_3067,"39th & Mt. Vernon, Mantua Haverford Community Center",39.96411,-75.19973,0,unknown,Mantua
+bcycle_indego_3068,Broad & Federal,39.93549,-75.16711,0,unknown,Passyunk Square
+bcycle_indego_3069,4th & Christian,39.93704,-75.15038,0,unknown,Queen Village
+bcycle_indego_3072,Front & Carpenter,39.93445,-75.14541,0,unknown,Queen Village
+bcycle_indego_3073,9th & Spring Garden,39.96143,-75.15242,0,unknown,Callowhill
+bcycle_indego_3074,44th & Walnut,39.95511,-75.20987,0,unknown,Spruce Hill
+bcycle_indego_3075,Fairmount & Ridge,39.96718,-75.16125,0,unknown,Francisville
+bcycle_indego_3077,17th & Girard,39.97207,-75.16351,0,unknown,North Central
+bcycle_indego_3078,19th & Market,39.95355,-75.17192,0,unknown,Logan Square
+bcycle_indego_3086,Broad & Christian,39.94019,-75.16691,0,unknown,Graduate Hospital
+bcycle_indego_3088,3rd & Girard,39.96984,-75.1418,0,unknown,"Kensington, Old"
+bcycle_indego_3093,33rd & Diamond,39.98837,-75.18701,0,unknown,Strawberry Mansion
+bcycle_indego_3096,29th & Dauphin,39.99119,-75.17975,0,unknown,Strawberry Mansion
+bcycle_indego_3097,"Berks Station, MFL",39.97888,-75.13339,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3098,10th & Federal,39.93431,-75.16042,0,unknown,Passyunk Square
+bcycle_indego_3099,4th & Washington,39.93401,-75.15094,0,unknown,Dickinson Narrows
+bcycle_indego_3100,Moyamensing & Tasker,39.92777,-75.15103,0,unknown,Pennsport
+bcycle_indego_3101,11th & South,39.94295,-75.15955,0,unknown,Washington Square West
+bcycle_indego_3102,"Pennsylvania & Fairmount, Perelman Building",39.96759,-75.17952,0,unknown,Fairmount
+bcycle_indego_3104,34th & Mantua,39.96664,-75.19209,0,unknown,Mantua
+bcycle_indego_3106,33rd & Dauphin,39.99179,-75.18637,0,unknown,Strawberry Mansion
+bcycle_indego_3107,33rd & Reservoir,39.98203,-75.18866,0,unknown,Strawberry Mansion
+bcycle_indego_3110,Del. River Trail & Penn St.,39.96175,-75.13641,0,unknown,Northern Liberties
+bcycle_indego_3111,"Parkside & Belmont, Case Building",39.97779,-75.21323,0,unknown,West Park
+bcycle_indego_3112,48th & Spruce,39.95373,-75.21825,0,unknown,Walnut Hill
+bcycle_indego_3113,Philadelphia Zoo,39.97472,-75.19781,0,unknown,Mantua
+bcycle_indego_3114,22nd & Federal,39.93775,-75.18012,0,unknown,Point Breeze
+bcycle_indego_3115,"19th & Girard, PTTI",39.97263,-75.16757,0,unknown,Francisville
+bcycle_indego_3116,Barnes Foundation,39.96006,-75.17198,0,unknown,Logan Square
+bcycle_indego_3117,ParkWest Town Center,39.97841,-75.22399,0,unknown,West Parkside
+bcycle_indego_3118,"46th Street Station, MFL",39.95866,-75.21323,0,unknown,West Powelton
+bcycle_indego_3119,42nd & Lancaster,39.96674,-75.20799,0,unknown,Belmont
+bcycle_indego_3120,31st & Girard,39.97522,-75.18669,0,unknown,Brewerytown
+bcycle_indego_3123,22nd & Cecil B. Moore,39.98004,-75.17088,0,unknown,North Central
+bcycle_indego_3124,Race Street Pier,39.95367,-75.13956,0,unknown,Riverfront
+bcycle_indego_3125,15th & South,39.94391,-75.16735,0,unknown,Rittenhouse
+bcycle_indego_3150,"15th & Castle, DiSilvestro Playground",39.92884,-75.17021,0,unknown,Newbold
+bcycle_indego_3152,"40th & Baltimore, Trolley Portal",39.94993,-75.20286,0,unknown,University City
+bcycle_indego_3154,12th & Callowhill,39.95924,-75.15821,0,unknown,Callowhill
+bcycle_indego_3155,7th & Fitzwater,39.94018,-75.15442,0,unknown,Bella Vista
+bcycle_indego_3156,20th & Market,39.95381,-75.17407,0,unknown,Logan Square
+bcycle_indego_3157,"8th & Mifflin, Bok Building",39.92545,-75.15954,0,unknown,Greenwich
+bcycle_indego_3158,Broad & Passyunk ,39.92552,-75.16904,0,unknown,East Passyunk
+bcycle_indego_3159,38th & Spruce,39.95121,-75.19962,0,unknown,University City
+bcycle_indego_3160,38th & Market,39.95662,-75.19862,0,unknown,University City
+bcycle_indego_3161,30th Street Station East,39.95486,-75.18091,0,unknown,University City
+bcycle_indego_3162,27th & South,39.94595,-75.18475,0,unknown,Fitler Square
+bcycle_indego_3163,25th & Locust,39.94974,-75.18097,0,unknown,Rittenhouse
+bcycle_indego_3164,12th & Passyunk,39.92814,-75.16515,0,unknown,East Passyunk
+bcycle_indego_3165,24th & Race SRT,39.95819,-75.1782,0,unknown,Logan Square
+bcycle_indego_3166,Frankford & Belgrade,39.97195,-75.13445,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3168,20th & Sansom,39.95134,-75.17394,0,unknown,Rittenhouse
+bcycle_indego_3169,2nd & Race,39.95382,-75.14263,0,unknown,Old City
+bcycle_indego_3181,Crescent Park,39.89629,-75.17514,0,unknown,Navy Yard
+bcycle_indego_3182,17th & Sansom,39.95081,-75.16953,0,unknown,Rittenhouse
+bcycle_indego_3183,15th & Kitty Hawk,39.88994,-75.17679,0,unknown,Navy Yard
+bcycle_indego_3184,Health Sciences Drive,39.94573,-75.19551,0,unknown,University City
+bcycle_indego_3185,11th & Market ,39.95169,-75.15888,0,unknown,Washington Square West
+bcycle_indego_3187,20th & Race,39.95725,-75.17232,0,unknown,Logan Square
+bcycle_indego_3188,"Broad & Pattison, BSL",39.90471,-75.1734,0,unknown,Stadium District
+bcycle_indego_3196,25th & Diamond,39.98717,-75.17477,0,unknown,Stanton
+bcycle_indego_3197,Broad & Ritner,39.92083,-75.17033,0,unknown,Lower Moyamensing
+bcycle_indego_3200,Ridge & Master,39.97583,-75.16846,0,unknown,North Central
+bcycle_indego_3201,16th & Arch,39.95523,-75.1662,0,unknown,Logan Square
+bcycle_indego_3203,18th & Christian,39.94077,-75.17227,0,unknown,Graduate Hospital
+bcycle_indego_3204,17th & Green,39.96437,-75.16582,0,unknown,Spring Garden
+bcycle_indego_3205,17th & JFK,39.95405,-75.16783,0,unknown,Logan Square
+bcycle_indego_3207,34th & Chestnut,39.95441,-75.192,0,unknown,University City
+bcycle_indego_3208,34th & Spruce,39.95048,-75.19324,0,unknown,University City
+bcycle_indego_3209,45th & Baltimore,39.949,-75.21278,0,unknown,Spruce Hill
+bcycle_indego_3210,Broad & Diamond,39.98492,-75.15668,0,unknown,Stanton
+bcycle_indego_3211,Corinthian & Poplar,39.97172,-75.1706,0,unknown,Fairmount
+bcycle_indego_3212,Schuylkill Banks Pergola,39.96383,-75.18177,0,unknown,Logan Square
+bcycle_indego_3213,Broad & Carpenter,39.93887,-75.16663,0,unknown,Hawthorne
+bcycle_indego_3226,2nd & Norris,39.98101,-75.13721,0,unknown,"Kensington, West"
+bcycle_indego_3235,16th & Callowhill,39.96,-75.1651,0,unknown,Logan Square
+bcycle_indego_3236,24th & Pennsylvania ,39.96566,-75.17765,0,unknown,Spring Garden
+bcycle_indego_3237,Broad & Oregon,39.91717,-75.17096,0,unknown,Lower Moyamensing
+bcycle_indego_3240,44th & Haverford,39.96277,-75.21185,0,unknown,Mill Creek
+bcycle_indego_3241,"52nd & Larchwood, Malcolm X Park",39.95225,-75.22637,0,unknown,Garden Court
+bcycle_indego_3243,8th & Diamond,39.9835,-75.14743,0,unknown,Hartranft
+bcycle_indego_3245,Broad & Cecil B. Moore,39.97887,-75.15777,0,unknown,Yorktown
+bcycle_indego_3246,50th & Baltimore,39.94782,-75.22301,0,unknown,Cedar Park
+bcycle_indego_3247,"47th & Aspen, Lucien Blackwell",39.96538,-75.21514,0,unknown,Mill Creek
+bcycle_indego_3248,24th & Christian,39.94213,-75.18335,0,unknown,Graduate Hospital
+bcycle_indego_3249,34th & Arch,39.95784,-75.19079,0,unknown,University City
+bcycle_indego_3250,4th & Wood,39.95673,-75.14575,0,unknown,Old City
+bcycle_indego_3251,29th & Tasker,39.93366,-75.19319,0,unknown,Grays Ferry
+bcycle_indego_3252,30th & Oakford,39.93882,-75.19324,0,unknown,Grays Ferry
+bcycle_indego_3253,"26th & Moore, Vare Recreation Center",39.93074,-75.18924,0,unknown,Grays Ferry
+bcycle_indego_3254,16th & Montgomery,39.98091,-75.16065,0,unknown,North Central
+bcycle_indego_3255,Broad & Chestnut,39.95095,-75.16438,0,unknown,Rittenhouse
+bcycle_indego_3256,23rd & Chestnut,39.95269,-75.17779,0,unknown,Rittenhouse
+bcycle_indego_3258,52nd & Chestnut,39.95828,-75.22424,0,unknown,Walnut Hill
+bcycle_indego_3259,Saunders & Pearl,39.95998,-75.19883,0,unknown,West Powelton
+bcycle_indego_3261,2nd & Brown,39.96304,-75.14099,0,unknown,Northern Liberties
+bcycle_indego_3263,43rd & Powelton,39.9586,-75.2081,0,unknown,West Powelton
+bcycle_indego_3264,8th & Spruce,39.94571,-75.15508,0,unknown,Washington Square West
+bcycle_indego_3265,Powelton & Lancaster,39.95957,-75.19633,0,unknown,University City
+bcycle_indego_3266,Water & Mifflin,39.9237,-75.14701,0,unknown,Riverfront
+bcycle_indego_3267,19th & Oregon,39.918,-75.1796,0,unknown,Girard Estates
+bcycle_indego_3268,10th & Oxford,39.97633,-75.15101,0,unknown,Yorktown
+bcycle_indego_3271,53rd & Baltimore,39.9476,-75.22946,0,unknown,Kingsessing
+bcycle_indego_3272,50th & Haverford,39.96405,-75.22048,0,unknown,Mill Creek
+bcycle_indego_3275,York & Aramingo,39.97576,-75.12157,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3276,12th & Fairmount,39.96569,-75.15679,0,unknown,West Poplar
+bcycle_indego_3277,20th & Berks,39.98306,-75.16738,0,unknown,North Central
+bcycle_indego_3278,22nd & Sedgley,39.99301,-75.1681,0,unknown,Strawberry Mansion
+bcycle_indego_3279,13th & Mifflin,39.9265,-75.1668,0,unknown,East Passyunk
+bcycle_indego_3280,50th & Woodland,39.93968,-75.21362,0,unknown,Southwest Schuylkill
+bcycle_indego_3281,Lindbergh & Wheeler,39.9323,-75.2162,0,unknown,Bartram Village
+bcycle_indego_3282,10th & Nevada,39.98628,-75.14925,0,unknown,Hartranft
+bcycle_indego_3284,Midvale & Cresson,40.01112,-75.19287,0,unknown,East Falls
+bcycle_indego_3285,5th & Willow,39.95946,-75.14745,0,unknown,Northern Liberties
+bcycle_indego_3286,6th & Brown,39.96409,-75.14769,0,unknown,Northern Liberties
+bcycle_indego_3287,49th & Chester,39.94367,-75.21606,0,unknown,Cedar Park
+bcycle_indego_3291,Ridge & Heritage,40.01022,-75.197,0,unknown,East Falls
+bcycle_indego_3292,5th & Wolf,39.92,-75.1562,0,unknown,Whitman
+bcycle_indego_3294,18th & Chestnut,39.95174,-75.17063,0,unknown,Rittenhouse
+bcycle_indego_3295,12th & Chestnut,39.95028,-75.16027,0,unknown,Washington Square West
+bcycle_indego_3296,16th & Chestnut,39.95134,-75.16758,0,unknown,Rittenhouse
+bcycle_indego_3297,18th & Vine,39.95821,-75.16901,0,unknown,Logan Square
+bcycle_indego_3298,42nd & Woodland,39.94717,-75.20691,0,unknown,Woodland Terrace
+bcycle_indego_3299,9th & Lombard,39.94332,-75.15698,0,unknown,Washington Square West
+bcycle_indego_3300,Broad & Cherry,39.95511,-75.16287,0,unknown,Center City East
+bcycle_indego_3301,18th & Walnut,39.95029,-75.17126,0,unknown,Rittenhouse
+bcycle_indego_3303,41st & Chestnut,39.9559,-75.2053,0,unknown,Spruce Hill
+bcycle_indego_3304,7th & South,39.94234,-75.15399,0,unknown,Society Hill
+bcycle_indego_3305,22nd & Lehigh,39.99569,-75.1671,0,unknown,Glenwood
+bcycle_indego_3306,28th & Lehigh,39.99683,-75.17761,0,unknown,Strawberry Mansion
+bcycle_indego_3307,27th & Clearfield,40.0028,-75.174,0,unknown,Allegheny West
+bcycle_indego_3310,Oxford & Glenwood,39.98024,-75.18651,0,unknown,Strawberry Mansion
+bcycle_indego_3313,10th & Oregon,39.9158,-75.1643,0,unknown,Stadium District
+bcycle_indego_3314,Front & Queen,39.93682,-75.14492,0,unknown,Queen Village
+bcycle_indego_3315,48th & Woodland,39.94235,-75.21138,0,unknown,Southwest Schuylkill
+bcycle_indego_3316,16th & Wolf,39.92255,-75.17337,0,unknown,Newbold
+bcycle_indego_3318,City Hall South,39.95182,-75.16395,0,unknown,Center City East
+bcycle_indego_3319,Penn Treaty Park,39.96672,-75.12964,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3320,Broad & Master,39.9746,-75.15917,0,unknown,North Central
+bcycle_indego_3321,20th & Cuthbert,39.95485,-75.17298,0,unknown,Logan Square
+bcycle_indego_3322,7th & Passyunk,39.93638,-75.15526,0,unknown,Bella Vista
+bcycle_indego_3323,Manayunk Bridge,40.02796,-75.2277,0,unknown,Manayunk
+bcycle_indego_3324,"Kelly Drive, Strawberry Mansion Bridge",39.99484,-75.19242,0,unknown,East Park
+bcycle_indego_3325,Cedar & Norris,39.9768,-75.12764,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3326,"M.L.K. Drive, Strawberry Mansion Bridge",39.99198,-75.19944,0,unknown,West Park
+bcycle_indego_3327,York & Gaul,39.97759,-75.12442,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3328,Kelly Drive Grandstand,39.98798,-75.1995,0,unknown,East Park
+bcycle_indego_3329,Cresson & Levering,40.02651,-75.22445,0,unknown,Manayunk
+bcycle_indego_3331,Girard & Palmer,39.97116,-75.12813,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3332,32nd & Allegheny,40.00537,-75.18143,0,unknown,Allegheny West
+bcycle_indego_3333,18th & JFK Curbside,39.9541,-75.16965,0,unknown,Logan Square
+bcycle_indego_3334,7th & Dickinson,39.9302,-75.15636,0,unknown,Dickinson Narrows
+bcycle_indego_3335,Main & Shurs,40.02237,-75.218,0,unknown,Wissahickon
+bcycle_indego_3336,36th & Filbert,39.95719,-75.19388,0,unknown,University City
+bcycle_indego_3337,6th & Master,39.97318,-75.14612,0,unknown,Ludlow
+bcycle_indego_3338,54th & Cedar,39.95098,-75.23035,0,unknown,Cobbs Creek
+bcycle_indego_3340,27th & Pennsylvania,39.96906,-75.18169,0,unknown,East Park
+bcycle_indego_3341,York & Trenton,39.98131,-75.12732,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3342,22nd & Spring Garden,39.9639,-75.17385,0,unknown,Logan Square
+bcycle_indego_3344,56th & Chestnut,39.95961,-75.23354,0,unknown,Cobbs Creek
+bcycle_indego_3345,5th & Spring Garden,39.9617,-75.14667,0,unknown,Northern Liberties
+bcycle_indego_3346,6th & Chestnut,39.94883,-75.15097,0,unknown,Old City
+bcycle_indego_3347,9th & Race,39.95484,-75.15449,0,unknown,Chinatown
+bcycle_indego_3349,25th & Wharton,39.93651,-75.18621,0,unknown,Grays Ferry
+bcycle_indego_3350,Broad & Lehigh,39.99415,-75.15527,0,unknown,Stanton
+bcycle_indego_3351,12th & Cambria,39.99655,-75.14991,0,unknown,Hartranft
+bcycle_indego_3352,Broad & Allegheny,40.00143,-75.15256,0,unknown,Franklinville
+bcycle_indego_3353,"Broad & Ontario, Temple Hospital",40.00496,-75.15233,0,unknown,Tioga
+bcycle_indego_3354,58th & Spruce,39.95628,-75.2387,0,unknown,Cobbs Creek
+bcycle_indego_3356,12th & Normandy,39.89322,-75.17187,0,unknown,Navy Yard
+bcycle_indego_3357,10th & Packer,39.9104,-75.16588,0,unknown,Stadium District
+bcycle_indego_3359,17th & Locust,39.94888,-75.16978,0,unknown,Rittenhouse
+bcycle_indego_3360,Broad & Reed,39.93304,-75.16822,0,unknown,Point Breeze
+bcycle_indego_3361,"18th & Fernon, Aquinas Center",39.93082,-75.17474,0,unknown,Newbold
+bcycle_indego_3362,13th & Locust,39.94816,-75.16226,0,unknown,Washington Square West
+bcycle_indego_3363,13th & Spruce,39.94655,-75.16263,0,unknown,Washington Square West
+bcycle_indego_3365,"32nd & Baring, Drexel Park",39.96173,-75.18788,0,unknown,Powelton
+bcycle_indego_3368,23rd & Master,39.97647,-75.17362,0,unknown,Sharswood
+bcycle_indego_3369,Ridge & Ferry,40.00772,-75.19194,0,unknown,East Falls
+bcycle_indego_3370,Pencoyd Bridge,40.0163,-75.21241,0,unknown,Wissahickon
+bcycle_indego_3371,9th & Arch,39.9534,-75.1543,0,unknown,Old City
+bcycle_indego_3372,24th & Jackson,39.92528,-75.18672,0,unknown,Grays Ferry
+bcycle_indego_3373,11th & Wood,39.95817,-75.15668,0,unknown,Callowhill
+bcycle_indego_3374,26th & Poplar,39.9728,-75.17971,0,unknown,Fairmount
+bcycle_indego_3375,"Spring Garden Station, MFL",39.96036,-75.1402,0,unknown,Northern Liberties
+bcycle_indego_3376,Thompson & Franklin,39.97183,-75.14878,0,unknown,Ludlow
+bcycle_indego_3378,4th & Arch,39.95238,-75.14728,0,unknown,Old City
+bcycle_indego_3381,48th & Baltimore,39.94845,-75.21807,0,unknown,Cedar Park
+bcycle_indego_3382,Walnut & Rittenhouse,39.95038,-75.17309,0,unknown,Rittenhouse
+bcycle_indego_3383,"3rd & Wildey, Liberty Lands Park",39.96634,-75.14222,0,unknown,Northern Liberties
+bcycle_indego_3385,8th & Chestnut,39.94974,-75.15424,0,unknown,Washington Square West
+bcycle_indego_3387,6th & Girard,39.97012,-75.14666,0,unknown,East Poplar
+bcycle_indego_3388,8th & Brown,39.96634,-75.15097,0,unknown,East Poplar
+bcycle_indego_3389,Grays Ferry & Pemberton,39.94431,-75.18128,0,unknown,Graduate Hospital
+bcycle_indego_3390,"52nd St Station, MFL ",39.96,-75.2244,0,unknown,Dunlap
+bcycle_indego_3391,54th & City Ave,39.99667,-75.23482,0,unknown,Overbrook
+bcycle_indego_3392,30th & Reed,39.93633,-75.19447,0,unknown,Grays Ferry
+bcycle_indego_3393,2nd & George,39.96727,-75.13999,0,unknown,Northern Liberties
+bcycle_indego_3394,Broad & Snyder,39.924,-75.16959,0,unknown,Lower Moyamensing
+bcycle_indego_3395,12th & Carpenter,39.93866,-75.16351,0,unknown,Hawthorne
+bcycle_indego_3396,21st & Passyunk,39.92327,-75.1821,0,unknown,West Passyunk
+bcycle_indego_3397,21st & Washington,39.93906,-75.17824,0,unknown,Point Breeze
+bcycle_indego_3398,4th & Oregon,39.91551,-75.15474,0,unknown,Whitman
+bcycle_indego_3399,American & Oxford,39.97502,-75.14006,0,unknown,"Kensington, Old"
+bcycle_indego_3400,12th & Walnut,39.949,-75.16081,0,unknown,Washington Square West
+bcycle_indego_3403,Wynnefield Station,39.99153,-75.22528,0,unknown,Wynnefield
+bcycle_indego_3404,57th & Master,39.97347,-75.23491,0,unknown,Carroll Park
+bcycle_indego_3405,Fitzwater & Juniper,39.94167,-75.16502,0,unknown,Hawthorne
+bcycle_indego_3407,American & Berks,39.9785,-75.13911,0,unknown,"Kensington, West"
+bcycle_indego_3408,2nd & Snyder,39.9216,-75.15,0,unknown,Whitman
+bcycle_indego_3409,"7th & Race, Franklin Square",39.95508,-75.15128,0,unknown,Old City
+bcycle_indego_3410,"51st & Regent, Kingsessing Library",39.94201,-75.21838,0,unknown,Kingsessing
+bcycle_indego_3411,57th & Westminster ,39.96693,-75.23359,0,unknown,Haddington
+bcycle_indego_3412,Cobbs Creek & Florence,39.93771,-75.23373,0,unknown,Kingsessing
+bcycle_indego_3413,47th & Lancaster,39.97115,-75.21596,0,unknown,Mill Creek
+bcycle_indego_3414,54th & Chester,39.93922,-75.22347,0,unknown,Kingsessing
+bcycle_indego_3417,Germantown & Huntingdon,39.99146,-75.14808,0,unknown,Hartranft
+bcycle_indego_3421,Moyamensing & Ritner,39.91972,-75.16408,0,unknown,Lower Moyamensing
+bcycle_indego_3422,JFK Blvd at Schuylkill Yards,39.95619,-75.18647,0,unknown,University City
+bcycle_indego_3423,"Ridge & Pensdale, Kendrick Recreation Center",40.02826,-75.21106,0,unknown,Roxborough
+bcycle_indego_3425,"York-Dauphin Station, MFL",39.9849,-75.13255,0,unknown,"Kensington, West"
+bcycle_indego_3426,58th & Kingsessing,39.93448,-75.22764,0,unknown,Kingsessing
+bcycle_indego_3427,"Aramingo & Huntingdon, Aramingo Square",39.97961,-75.11844,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3428,57th & Diamond,39.98707,-75.23722,0,unknown,Wynnefield
+bcycle_indego_3430,27th & Girard,39.97408,-75.1801,0,unknown,Fairmount
+bcycle_indego_3431,62nd & Market,39.96239,-75.24522,0,unknown,Cobbs Creek
+bcycle_indego_3432,"Manayunk & Conarroe, Fairview Park",40.03055,-75.21983,0,unknown,Manayunk
+bcycle_indego_3434,"Frankford & Columbia, Palmer Park",39.97487,-75.13286,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3435,Huntingdon & Collins,39.98451,-75.12348,0,unknown,East Kensington
+bcycle_indego_3436,Allegheny & Richmond,39.98287,-75.10121,0,unknown,Richmond
+bcycle_indego_3437,Schuylkill & Wharton,39.93931,-75.20336,0,unknown,Grays Ferry
+bcycle_indego_3438,"Cedar & Cambria, Cohocksink Recreation Center",39.98421,-75.11304,0,unknown,Richmond
+bcycle_indego_3439,"Lehigh & B, Temple Episcopal Hospital",39.99033,-75.12759,0,unknown,"Kensington, West"
+bcycle_indego_3440,Almond & Indiana,39.98306,-75.10836,0,unknown,Richmond
+bcycle_indego_3441,22nd & Hamilton,39.96305,-75.17454,0,unknown,Logan Square
+bcycle_indego_3442,Kensington & F,39.99426,-75.11791,0,unknown,Upper Kensington
+bcycle_indego_3443,Terrace & Hermit,40.02155,-75.21339,0,unknown,Roxborough
+bcycle_indego_3444,23rd & Venango,40.00959,-75.16596,0,unknown,Tioga
+bcycle_indego_3445,Frankford & Crease,39.97235,-75.13426,0,unknown,Fishtown - Lower Kensington
+bcycle_indego_3446,Overbrook Station,39.9906,-75.249,0,unknown,Overbrook
+bcycle_indego_3447,2nd & Market,39.95009,-75.14467,0,unknown,Old City
+bcycle_indego_3448,Broad & Christian East,39.93995,-75.16604,0,unknown,Hawthorne
+bcycle_indego_3449,6th & S Washington Sq,39.94628,-75.15138,0,unknown,Society Hill
